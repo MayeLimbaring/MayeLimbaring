@@ -10,7 +10,9 @@
 ---
 
 ###  Certifications
-- **Certificate in Python Programming - (https://courses.cognitiveclass.ai/certificates/98246288e2434b3c980102a1b8df0acb#)** 
+- **SQL and Relational Databases 101  - (https://courses.cognitiveclass.ai/certificates/cdfe316311bd480d90deccbdf537e0f2)**
+- **Python 101 for Data Science - (https://courses.cognitiveclass.ai/certificates/98246288e2434b3c980102a1b8df0acb#)**
+
 
 ---
 
@@ -21,7 +23,7 @@
 ---
 
 ###  Technical Skills
-- **Programming Languages:** Java, C
+- **Programming Languages:** Java, C, Python
 
 - **Database Management:** SQL, DB2
 
