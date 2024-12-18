@@ -13,6 +13,7 @@
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/cdfe316311bd480d90deccbdf537e0f2)
 - [Python 101 for Data Science](https://courses.cognitiveclass.ai/certificates/98246288e2434b3c980102a1b8df0acb#)
 - Become an Oracle Cloud Data Management Foundations Associate
+- Become An OCI AI Foundations Associate (2024)
 
 
 ---
